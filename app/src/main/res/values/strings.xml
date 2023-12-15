@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gogle Direction Map Application</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
